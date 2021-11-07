@@ -1,0 +1,10 @@
+.btn-style{
+    background-color: black;
+    padding: 10px;
+    border: none;
+    text-decoration: none;
+    border-radius:20px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
