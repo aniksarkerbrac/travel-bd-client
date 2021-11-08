@@ -1,5 +1,4 @@
 import React from 'react';
-import person1 from '../../../images/person1.jpg';
 import img from '../../../images/wilson.png';
 import ReviewCard from '../ReviewCard/ReviewCard';
 
